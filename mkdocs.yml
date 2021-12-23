@@ -1,0 +1,52 @@
+site_name: PRODUCT_NAME Onboarding
+site_url: !ENV [SITE_URL, 'http://localhost:8000']
+site_description: PRODUCT_NAME Onboarding Guide
+site_author: Simple Machines
+copyright: Copyright 2021 Simple Machines Pty Ltd - All rights reserved
+theme:
+  name: material
+  logo: assets/logo.svg
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.tabs.sticky
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight
+  - pymdownx.superfences
+extra_css:
+  - stylesheets/extra.css
+plugins:
+  - search
+  - mkdocstrings:
+      default_handler: python
+      handlers:
+        python:
+          rendering:
+            show_source: false
+      watch:
+        - ../anaml-python-sdk/src
+nav:
+  - Home:
+      - Home: index.md
+      - About: home/about.md
+      - People: home/people.md
+      - Development Setup: home/dev_setup.md
+  - Projects:
+      - anaml: projects/anaml.md
+      - anaml-docs: projects/anaml_docs.md
+      - anaml-server: projects/anaml_server.md
+      - anaml-ui: projects/anaml_ui.md
+      - anaml-devops: projects/anaml_devops.md
+      - anaml-python-sdk: projects/anaml_python_sdk.md
+      - anaml-spark-docker: projects/anaml_spark_docker.md
+      - anaml-kafka-connect-s3-format: projects/anaml_kafka_connect_s3_format.md
+      - terraform-provider-anaml: projects/terraform_provider_anaml.md
+      - terraform-provider-anaml-operations: projects/terraform_provider_anaml_operations.md
+      - anaml-demos: projects/anaml_demos.md
+  - Troubleshooting:
+      - During Setup: troubleshooting/setup.md
+      - During Deployment: troubleshooting/deployment.md
+      - When Deployed: troubleshooting/deployed.md
