@@ -4,48 +4,49 @@ These are the people currently working on PRODUCT_NAME:
 
 ## Iain Cardnell
 
-TODO: who are you, what's your role, what can a new starter ask you questions about?
+Role(s): Project Owner (?), Backend Developer
+
+Can answer questions about:
+*
 
 ## Huw Campbell
 
-TODO: who are you, what's your role, what can a new starter ask you questions about?
+Role(s): Backend Developer
 
-## Thomas Sutton
-
-TODO: who are you, what's your role, what can a new starter ask you questions about?
+Can answer questions about:
+*
 
 ## Patrick Wadden
 
-TODO: who are you, what's your role, what can a new starter ask you questions about?
+Role(s): Frontend Developer
 
-## Tony Morris
-
-TODO: who are you, what's your role, what can a new starter ask you questions about?
+Can answer questions about:
+*
 
 ## Swetha Raj
 
-TODO: who are you, what's your role, what can a new starter ask you questions about?
+Role(s): Developer
+
+Can answer questions about:
+*
+
+## Tony Morris
+
+Role(s): Developer
+
+Can answer questions about:
+* Onboarding and dev machine setup
 
 ## Craig Ellis
 
-TODO: who are you, what's your role, what can a new starter ask you questions about?
+Role(s): Backend Developer
 
-## Jacob Salway
-
-TODO: who are you, what's your role, what can a new starter ask you questions about?
-
-## Angela Rajbhandari
-
-TODO: who are you, what's your role, what can a new starter ask you questions about?
-
-## Charles Salmon
-
-TODO: who are you, what's your role, what can a new starter ask you questions about?
-
-## Zac Parsons
-
-TODO: who are you, what's your role, what can a new starter ask you questions about?
+Can answer questions about:
+* Onboarding and dev machine setup
 
 ## Fotina Koutropoulos
 
-TODO: who are you, what's your role, what can a new starter ask you questions about?
+Role(s): Coordinator (?)
+
+Can answer questions about:
+*
